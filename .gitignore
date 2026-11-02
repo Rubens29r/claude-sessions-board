@@ -1,0 +1,4 @@
+.claude/coordination/board.json
+.claude/coordination/activity.jsonl*
+.claude/coordination/*.tmp
+__pycache__/
